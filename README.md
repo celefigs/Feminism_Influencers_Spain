@@ -35,3 +35,7 @@ The data used in this project is sourced from OSF - Feminism and Anti-feminism D
          year={2020}
    }
 
+## Challenges and Learnings
+This project was very interesting and insightful. However, when choosing the dataset, I should have anticipated that having such a small sample size (only 26 entries) makes it very challenging to draw robust summaries and meaningful conclusions.
+
+For future analyses, selecting larger and more comprehensive datasets will be crucial to improve the quality and reliability of the results.
