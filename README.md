@@ -20,24 +20,6 @@ Proper credit is given to the original researchers.
 * Navarro, C. & Gómez-Bernal, G. (2021). *The Use of Social Media by Spanish Feminist Organizations: Collectivity From Individualism*. [DOI](https://www.cogitatiopress.com/mediaandcommunication/article/view/5109/2656)
 * Pérez, J.M., Giudici, J.C., & Luque, F. (2021). *pysentimiento: A Python Toolkit for Sentiment Analysis and SocialNLP tasks*. arXiv:2106.09462
 
-  ```bibtex
-  @misc{perez2021pysentimiento,
-        title={pysentimiento: A Python Toolkit for Sentiment Analysis and SocialNLP tasks},
-        author={Juan Manuel Pérez and Juan Carlos Giudici and Franco Luque},
-        year={2021},
-        eprint={2106.09462},
-        archivePrefix={arXiv},
-        primaryClass={cs.CL}
-  }
-
-  @article{canete2020spanish,
-        title={Spanish pre-trained BERT model and evaluation data},
-        author={Ca{\~n}ete, Jos{\'e} and Chaperon, Gabriel and Fuentes, Rodrigo and Ho, Jou-Hui and Kang, Hojin and P{\'e}rez, Jorge},
-        journal={Pml4dc at ICLR},
-        volume={2020},
-        pages={1--10},
-        year={2020}
-  ```
 
 ## Challenges and Learnings
 
