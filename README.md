@@ -9,7 +9,8 @@ This project analyzes the role of influencers in shaping public perceptions of f
 
 ## Data Source
 All data is sourced from the OSF repository:
-🔗 [Feminism and Anti-feminism Dataset – OSF](https://osf.io/wvscb/).Proper credit is given to the original researchers.
+🔗 [Feminism and Anti-feminism Dataset – OSF](https://osf.io/wvscb/)
+Proper credit is given to the original researchers.
 
 ## References
 
