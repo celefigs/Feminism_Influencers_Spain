@@ -3,9 +3,7 @@
 This project analyzes the role of influencers in shaping public perceptions of feminism and antifeminism in Spain. It includes exploratory data analysis and sentiment analysis on social media content, aiming to understand trends, emotional tone, and overall discourse.
 
 > ⚠️ **Data Collection Disclaimer**
-> The data used in this project was **not collected by me**. It originates from the research project *"Exploring the role of influencers in promoting views about feminism in Spain"*, led by:
->
-> * Alejandro Tirado Castro, Marta Fraile Maldonado, * Paula Andrea Zuluaga Borrero
+> The data used in this project was **not collected by me**. It originates from the research project *"Exploring the role of influencers in promoting views about feminism in Spain"*, led by: Alejandro Tirado Castro, Marta Fraile Maldonado, Paula Andrea Zuluaga Borrero
 >
 > The dataset and the document *"Content Analysis Instructions"* were developed by the aforementioned authors and are available in the referenced repository.
 
